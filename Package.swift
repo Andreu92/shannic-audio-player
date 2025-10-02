@@ -2,11 +2,11 @@
 import PackageDescription
 
 let package = Package(
-    name: "CapacitorCommunityAudioPlayer",
+    name: "ShannicAudioPlayer",
     platforms: [.iOS(.v14)],
     products: [
         .library(
-            name: "CapacitorCommunityAudioPlayer",
+            name: "ShannicAudioPlayer",
             targets: ["AudioPlayerPlugin"])
     ],
     dependencies: [

@@ -4,7 +4,7 @@ export default {
     {
       file: 'dist/plugin.js',
       format: 'iife',
-      name: 'capacitorAudioPlayer',
+      name: 'shannicAudioPlayer',
       globals: {
         '@capacitor/core': 'capacitorExports',
       },
